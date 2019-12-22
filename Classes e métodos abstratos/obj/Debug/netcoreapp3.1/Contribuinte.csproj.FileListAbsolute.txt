@@ -1,0 +1,11 @@
+G:\Repositórios visual studio\Contribuinte\bin\Debug\netcoreapp3.1\Contribuinte.exe
+G:\Repositórios visual studio\Contribuinte\bin\Debug\netcoreapp3.1\Contribuinte.deps.json
+G:\Repositórios visual studio\Contribuinte\bin\Debug\netcoreapp3.1\Contribuinte.runtimeconfig.json
+G:\Repositórios visual studio\Contribuinte\bin\Debug\netcoreapp3.1\Contribuinte.runtimeconfig.dev.json
+G:\Repositórios visual studio\Contribuinte\bin\Debug\netcoreapp3.1\Contribuinte.dll
+G:\Repositórios visual studio\Contribuinte\bin\Debug\netcoreapp3.1\Contribuinte.pdb
+G:\Repositórios visual studio\Contribuinte\obj\Debug\netcoreapp3.1\Contribuinte.csprojAssemblyReference.cache
+G:\Repositórios visual studio\Contribuinte\obj\Debug\netcoreapp3.1\Contribuinte.AssemblyInfoInputs.cache
+G:\Repositórios visual studio\Contribuinte\obj\Debug\netcoreapp3.1\Contribuinte.AssemblyInfo.cs
+G:\Repositórios visual studio\Contribuinte\obj\Debug\netcoreapp3.1\Contribuinte.dll
+G:\Repositórios visual studio\Contribuinte\obj\Debug\netcoreapp3.1\Contribuinte.pdb
