@@ -1,0 +1,11 @@
+G:\Repositórios visual studio\Produtos\bin\Debug\netcoreapp3.1\Produtos.exe
+G:\Repositórios visual studio\Produtos\bin\Debug\netcoreapp3.1\Produtos.deps.json
+G:\Repositórios visual studio\Produtos\bin\Debug\netcoreapp3.1\Produtos.runtimeconfig.json
+G:\Repositórios visual studio\Produtos\bin\Debug\netcoreapp3.1\Produtos.runtimeconfig.dev.json
+G:\Repositórios visual studio\Produtos\bin\Debug\netcoreapp3.1\Produtos.dll
+G:\Repositórios visual studio\Produtos\bin\Debug\netcoreapp3.1\Produtos.pdb
+G:\Repositórios visual studio\Produtos\obj\Debug\netcoreapp3.1\Produtos.csprojAssemblyReference.cache
+G:\Repositórios visual studio\Produtos\obj\Debug\netcoreapp3.1\Produtos.AssemblyInfoInputs.cache
+G:\Repositórios visual studio\Produtos\obj\Debug\netcoreapp3.1\Produtos.AssemblyInfo.cs
+G:\Repositórios visual studio\Produtos\obj\Debug\netcoreapp3.1\Produtos.dll
+G:\Repositórios visual studio\Produtos\obj\Debug\netcoreapp3.1\Produtos.pdb
