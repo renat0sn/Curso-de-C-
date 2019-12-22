@@ -1,0 +1,11 @@
+G:\Repositórios visual studio\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Pedido.exe
+G:\Repositórios visual studio\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Pedido.deps.json
+G:\Repositórios visual studio\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Pedido.runtimeconfig.json
+G:\Repositórios visual studio\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Pedido.runtimeconfig.dev.json
+G:\Repositórios visual studio\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Pedido.dll
+G:\Repositórios visual studio\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Pedido.pdb
+G:\Repositórios visual studio\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Pedido.csprojAssemblyReference.cache
+G:\Repositórios visual studio\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Pedido.AssemblyInfoInputs.cache
+G:\Repositórios visual studio\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Pedido.AssemblyInfo.cs
+G:\Repositórios visual studio\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Pedido.dll
+G:\Repositórios visual studio\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Pedido.pdb
