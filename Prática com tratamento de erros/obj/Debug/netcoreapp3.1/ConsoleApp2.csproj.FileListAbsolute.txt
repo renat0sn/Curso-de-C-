@@ -1,0 +1,11 @@
+G:\Repositórios visual studio\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+G:\Repositórios visual studio\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+G:\Repositórios visual studio\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+G:\Repositórios visual studio\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+G:\Repositórios visual studio\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+G:\Repositórios visual studio\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+G:\Repositórios visual studio\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache
+G:\Repositórios visual studio\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+G:\Repositórios visual studio\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+G:\Repositórios visual studio\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+G:\Repositórios visual studio\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
