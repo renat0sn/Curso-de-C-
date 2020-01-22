@@ -1,0 +1,11 @@
+G:\Repositórios visual studio\teste\teste\bin\Debug\netcoreapp3.1\teste.exe
+G:\Repositórios visual studio\teste\teste\bin\Debug\netcoreapp3.1\teste.deps.json
+G:\Repositórios visual studio\teste\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.json
+G:\Repositórios visual studio\teste\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.dev.json
+G:\Repositórios visual studio\teste\teste\bin\Debug\netcoreapp3.1\teste.dll
+G:\Repositórios visual studio\teste\teste\bin\Debug\netcoreapp3.1\teste.pdb
+G:\Repositórios visual studio\teste\teste\obj\Debug\netcoreapp3.1\teste.csprojAssemblyReference.cache
+G:\Repositórios visual studio\teste\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfoInputs.cache
+G:\Repositórios visual studio\teste\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfo.cs
+G:\Repositórios visual studio\teste\teste\obj\Debug\netcoreapp3.1\teste.dll
+G:\Repositórios visual studio\teste\teste\obj\Debug\netcoreapp3.1\teste.pdb
