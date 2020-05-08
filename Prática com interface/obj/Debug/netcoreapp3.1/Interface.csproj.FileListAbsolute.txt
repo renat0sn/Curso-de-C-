@@ -1,0 +1,11 @@
+G:\Repositórios visual studio\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.exe
+G:\Repositórios visual studio\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+G:\Repositórios visual studio\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+G:\Repositórios visual studio\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+G:\Repositórios visual studio\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+G:\Repositórios visual studio\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+G:\Repositórios visual studio\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.csprojAssemblyReference.cache
+G:\Repositórios visual studio\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+G:\Repositórios visual studio\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+G:\Repositórios visual studio\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+G:\Repositórios visual studio\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
