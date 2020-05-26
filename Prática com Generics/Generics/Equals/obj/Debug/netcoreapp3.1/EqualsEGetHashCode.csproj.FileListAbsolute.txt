@@ -1,0 +1,11 @@
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Equals\bin\Debug\netcoreapp3.1\EqualsEGetHashCode.exe
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Equals\bin\Debug\netcoreapp3.1\EqualsEGetHashCode.deps.json
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Equals\bin\Debug\netcoreapp3.1\EqualsEGetHashCode.runtimeconfig.json
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Equals\bin\Debug\netcoreapp3.1\EqualsEGetHashCode.runtimeconfig.dev.json
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Equals\bin\Debug\netcoreapp3.1\EqualsEGetHashCode.dll
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Equals\bin\Debug\netcoreapp3.1\EqualsEGetHashCode.pdb
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Equals\obj\Debug\netcoreapp3.1\EqualsEGetHashCode.csprojAssemblyReference.cache
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Equals\obj\Debug\netcoreapp3.1\EqualsEGetHashCode.AssemblyInfoInputs.cache
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Equals\obj\Debug\netcoreapp3.1\EqualsEGetHashCode.AssemblyInfo.cs
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Equals\obj\Debug\netcoreapp3.1\EqualsEGetHashCode.dll
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Equals\obj\Debug\netcoreapp3.1\EqualsEGetHashCode.pdb
