@@ -1,0 +1,11 @@
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
