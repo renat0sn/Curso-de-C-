@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EqualsEGetHashCode", "Equal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConjuntosExercício", "ConjuntosExercício\ConjuntosExercício.csproj", "{95FE89AB-494E-4090-9727-30C2522051E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryExercício", "DictionaryExercício\DictionaryExercício.csproj", "{372EEEA1-40E2-4159-9988-95B414DC1E8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{95FE89AB-494E-4090-9727-30C2522051E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95FE89AB-494E-4090-9727-30C2522051E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95FE89AB-494E-4090-9727-30C2522051E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{372EEEA1-40E2-4159-9988-95B414DC1E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372EEEA1-40E2-4159-9988-95B414DC1E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372EEEA1-40E2-4159-9988-95B414DC1E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372EEEA1-40E2-4159-9988-95B414DC1E8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

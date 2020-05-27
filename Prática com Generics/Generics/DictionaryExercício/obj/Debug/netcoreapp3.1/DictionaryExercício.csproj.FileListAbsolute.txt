@@ -1,0 +1,11 @@
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\DictionaryExercício\bin\Debug\netcoreapp3.1\DictionaryExercício.exe
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\DictionaryExercício\bin\Debug\netcoreapp3.1\DictionaryExercício.deps.json
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\DictionaryExercício\bin\Debug\netcoreapp3.1\DictionaryExercício.runtimeconfig.json
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\DictionaryExercício\bin\Debug\netcoreapp3.1\DictionaryExercício.runtimeconfig.dev.json
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\DictionaryExercício\bin\Debug\netcoreapp3.1\DictionaryExercício.dll
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\DictionaryExercício\bin\Debug\netcoreapp3.1\DictionaryExercício.pdb
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\DictionaryExercício\obj\Debug\netcoreapp3.1\DictionaryExercício.csprojAssemblyReference.cache
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\DictionaryExercício\obj\Debug\netcoreapp3.1\DictionaryExercício.AssemblyInfoInputs.cache
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\DictionaryExercício\obj\Debug\netcoreapp3.1\DictionaryExercício.AssemblyInfo.cs
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\DictionaryExercício\obj\Debug\netcoreapp3.1\DictionaryExercício.dll
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\DictionaryExercício\obj\Debug\netcoreapp3.1\DictionaryExercício.pdb
