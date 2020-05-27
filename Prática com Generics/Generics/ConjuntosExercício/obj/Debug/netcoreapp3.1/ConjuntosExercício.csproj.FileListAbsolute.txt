@@ -1,0 +1,11 @@
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\ConjuntosExercício\bin\Debug\netcoreapp3.1\ConjuntosExercício.exe
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\ConjuntosExercício\bin\Debug\netcoreapp3.1\ConjuntosExercício.deps.json
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\ConjuntosExercício\bin\Debug\netcoreapp3.1\ConjuntosExercício.runtimeconfig.json
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\ConjuntosExercício\bin\Debug\netcoreapp3.1\ConjuntosExercício.runtimeconfig.dev.json
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\ConjuntosExercício\bin\Debug\netcoreapp3.1\ConjuntosExercício.dll
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\ConjuntosExercício\bin\Debug\netcoreapp3.1\ConjuntosExercício.pdb
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\ConjuntosExercício\obj\Debug\netcoreapp3.1\ConjuntosExercício.csprojAssemblyReference.cache
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\ConjuntosExercício\obj\Debug\netcoreapp3.1\ConjuntosExercício.AssemblyInfoInputs.cache
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\ConjuntosExercício\obj\Debug\netcoreapp3.1\ConjuntosExercício.AssemblyInfo.cs
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\ConjuntosExercício\obj\Debug\netcoreapp3.1\ConjuntosExercício.dll
+G:\Repositórios visual studio\Curso C#\Prática com Generics\Generics\ConjuntosExercício\obj\Debug\netcoreapp3.1\ConjuntosExercício.pdb
